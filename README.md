@@ -9,7 +9,6 @@ Our Deep Learning Project under the guidance of Dr.Chandra Prakash Sir
 * There are couple of ZIP files you would need to download and keep in this ./1.1_age_input_output/input directory:
   * combined_faces_train_augmented.zip
   * combined_faces.zip
-* More details [here](https://github.com/skillcate/age-detection-cnn-model/blob/6abe17a0636332fe8d681c4b1ece401539a0765a/1.1_age_input_output/input/For_AgeDetection_Dataset.txt)
 
 ## YouTube Tutorial on this Project
 [![YouTube Tutorial](https://img.youtube.com/vi/G0iYWNRuDcM/0.jpg)](https://www.youtube.com/watch?v=G0iYWNRuDcM)
