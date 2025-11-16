@@ -11,7 +11,7 @@ Our Deep Learning Project under the guidance of Dr.Chandra Prakash Sir
   * combined_faces.zip
 
 ## YouTube Tutorial on this Project
-[![YouTube Tutorial](https://img.youtube.com/vi/G0iYWNRuDcM/0.jpg)](https://youtu.be/iUusRnOWc9Q)
+[![YouTube Tutorial](https://img.youtube.com/vi/iUusRnOWc9Q/0.jpg)](https://youtu.be/iUusRnOWc9Q)
 
 ## Methodology
 * We combine our original datasets: *UTK Faces* and *Facial Age*, into one combined dataset of 33,486 images
