@@ -1,8 +1,7 @@
 # Build an Age Detection Model using CNN - with Keras
 Our Deep Learning Project under the guidance of Dr.Chandra Prakash Sir
 * We wish to build a highly accurate age detection model that takes human image as input, and returns a probable age range for the subject in that input image. We are using Convolutional Neural Network based Deep    Learning for model training.
-* With this age detection model, we are asking a computer to do what a human could anyway do, but at insane scale. So, we would need to put a lot of our human sense into the model we would develop.
-* During the course of this project, you shall get a first hand sense of how a data scientist thinks and works towards solving a technical problem of this scale and complexity. 
+* With this age detection model, we are asking a computer to do what a human could anyway do, but at insane scale. So, we would need to put a lot of our human sense into the model we would develop. 
 
 ## How to get training dataset
 * Kaggle dataset [link](https://www.kaggle.com/datasets/skillcate/merged-augmented-utk-faces-facial-age-dataset) for download [size ~6GB]
